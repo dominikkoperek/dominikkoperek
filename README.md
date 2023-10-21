@@ -8,7 +8,7 @@ I'm a 24-year-old computer science student. I've been learning Java for a few mo
 
 * 🌍  I'm based in Łódź
 * ✉️  You can contact me at [yoda1991@wp.pl](mailto:yoda1991@wp.pl)
-* 🧠  I'm learning Spring
+* 🧠  I'm learning Spring/Tyhmeleaf/API
 
 ### Skills
 
