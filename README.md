@@ -1,4 +1,4 @@
-Hi 👋 My name is Dominik Koperek
+Hi 👋 My name is Dominik 
 ================================
 
 Java Developer
